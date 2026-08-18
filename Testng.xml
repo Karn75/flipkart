@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
+<suite name="flipkart">
+
+<listeners>
+	<listener class-name="com.flipkart.utilities.Reporting"/>
+</listeners>
+
+	<test name="E-cart-app test">
+	<parameter name="browser" value="chrome"/>
+		<classes>
+			<class name="com.flipkart.testCases.TC_SearchProduct_01"/> 
+		</classes>
+	</test>
+	
+</suite>
