@@ -8,9 +8,9 @@ import org.testng.annotations.Test;
 import com.flipkart.pageObjects.HomePage;
 import com.flipkart.pageObjects.ShoesPage;
 
-@Test
 public class TC_SearchProduct_01 extends BaseClass {
 	
+	@Test
 	public void searchTest() throws InterruptedException, IOException  {
 		
 		logger.info("URL opened");
@@ -30,7 +30,7 @@ public class TC_SearchProduct_01 extends BaseClass {
 		System.out.println("BRUTON shoe price is: "+price);
 		logger.info("Got price of shoe");
 		
-		if(price.equalsIgnoreCase(price)) {
+		if(price.contains("₹")) {
 			Assert.assertTrue(true);
 			logger.info("Test passed");
 		}

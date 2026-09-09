@@ -8,7 +8,7 @@
 </listeners>
 
 	<test name="E-cart-app test">
-	<parameter name="browser" value="chrome"/>
+	<parameter name="browser" value="edge"/>
 		<classes>
 			<class name="com.flipkart.testCases.TC_SearchProduct_01"/> 
 		</classes>

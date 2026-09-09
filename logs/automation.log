@@ -70,3 +70,26 @@
 [2026-05-18 14:02:48] [main] INFO  com.flipkart.testCases.BaseClass - Typed and searched
 [2026-05-18 14:02:50] [main] INFO  com.flipkart.testCases.BaseClass - Got price of shoe
 [2026-05-18 14:02:50] [main] INFO  com.flipkart.testCases.BaseClass - Test passed
+[2026-08-27 22:04:40] [main] INFO  com.flipkart.testCases.BaseClass - URL opened
+[2026-08-27 22:04:41] [main] INFO  com.flipkart.testCases.BaseClass - Popup removed
+[2026-08-27 22:04:47] [main] INFO  com.flipkart.testCases.BaseClass - Typed and searched
+[2026-08-27 22:04:50] [main] INFO  com.flipkart.testCases.BaseClass - Got price of shoe
+[2026-08-27 22:04:50] [main] INFO  com.flipkart.testCases.BaseClass - Test passed
+[2026-08-27 22:10:58] [main] INFO  com.flipkart.testCases.BaseClass - URL opened
+[2026-08-27 22:11:00] [main] INFO  com.flipkart.testCases.BaseClass - Popup removed
+[2026-08-27 22:11:04] [main] INFO  com.flipkart.testCases.BaseClass - Typed and searched
+[2026-08-27 22:11:07] [main] INFO  com.flipkart.testCases.BaseClass - Got price of shoe
+[2026-08-27 22:11:07] [main] INFO  com.flipkart.testCases.BaseClass - Test passed
+[2026-09-07 17:07:18] [main] INFO  com.flipkart.testCases.BaseClass - URL opened
+[2026-09-07 17:07:20] [main] INFO  com.flipkart.testCases.BaseClass - Popup removed
+[2026-09-07 17:07:22] [main] INFO  com.flipkart.testCases.BaseClass - Typed and searched
+[2026-09-07 17:07:24] [main] INFO  com.flipkart.testCases.BaseClass - Got price of shoe
+[2026-09-07 17:08:52] [main] INFO  com.flipkart.testCases.BaseClass - URL opened
+[2026-09-07 17:08:53] [main] INFO  com.flipkart.testCases.BaseClass - Popup removed
+[2026-09-07 17:08:56] [main] INFO  com.flipkart.testCases.BaseClass - Typed and searched
+[2026-09-07 17:08:58] [main] INFO  com.flipkart.testCases.BaseClass - Got price of shoe
+[2026-09-07 17:10:00] [main] INFO  com.flipkart.testCases.BaseClass - URL opened
+[2026-09-07 17:10:01] [main] INFO  com.flipkart.testCases.BaseClass - Popup removed
+[2026-09-07 17:10:04] [main] INFO  com.flipkart.testCases.BaseClass - Typed and searched
+[2026-09-07 17:10:06] [main] INFO  com.flipkart.testCases.BaseClass - Got price of shoe
+[2026-09-07 17:10:06] [main] INFO  com.flipkart.testCases.BaseClass - Test passed

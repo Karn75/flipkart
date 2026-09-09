@@ -2,27 +2,27 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-08-18T17:40:36 IST" name="flipkart" finished-at="2026-08-18T17:40:50 IST" duration-ms="13963">
+  <suite started-at="2026-09-07T17:09:55 IST" name="flipkart" finished-at="2026-09-07T17:10:07 IST" duration-ms="12306">
     <groups>
     </groups>
-    <test started-at="2026-08-18T17:40:36 IST" name="E-cart-app test" finished-at="2026-08-18T17:40:50 IST" duration-ms="13963">
+    <test started-at="2026-09-07T17:09:55 IST" name="E-cart-app test" finished-at="2026-09-07T17:10:07 IST" duration-ms="12306">
       <class name="com.flipkart.testCases.TC_SearchProduct_01">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.flipkart.testCases.TC_SearchProduct_01@402c4085]" started-at="2026-08-18T17:40:37 IST" name="setup" finished-at="2026-08-18T17:40:43 IST" duration-ms="6436" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.flipkart.testCases.TC_SearchProduct_01@766653e6]" started-at="2026-09-07T17:09:55 IST" name="setup" finished-at="2026-09-07T17:10:00 IST" duration-ms="5238" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[chrome]]>
+                <![CDATA[edge]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="searchTest()[pri:0, instance:com.flipkart.testCases.TC_SearchProduct_01@402c4085]" started-at="2026-08-18T17:40:43 IST" name="searchTest" finished-at="2026-08-18T17:40:50 IST" duration-ms="6837" status="PASS">
+        <test-method signature="searchTest()[pri:0, instance:com.flipkart.testCases.TC_SearchProduct_01@766653e6]" started-at="2026-09-07T17:10:00 IST" name="searchTest" finished-at="2026-09-07T17:10:06 IST" duration-ms="6145" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flipkart.testCases.TC_SearchProduct_01@402c4085]" started-at="2026-08-18T17:40:50 IST" name="tearDown" finished-at="2026-08-18T17:40:50 IST" duration-ms="308" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flipkart.testCases.TC_SearchProduct_01@766653e6]" started-at="2026-09-07T17:10:06 IST" name="tearDown" finished-at="2026-09-07T17:10:07 IST" duration-ms="457" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
